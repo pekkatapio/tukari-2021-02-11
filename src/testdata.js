@@ -17,7 +17,7 @@ const tanktank = [
       summa: 57.12 },
     { id: "8347-2345",
       paiva: "2021-01-06",
-      lukema: 81750,
+      lukema: 81650,
       summa: 68.32 }
   ]
 
